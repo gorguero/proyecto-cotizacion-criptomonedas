@@ -1,2 +1,3 @@
-# proyecto-cotizacion-criptomonedas
-App que consulta a una API y cotiza con las 10 criptomonedas mas usadas actualmente
+# Cotizador de criptomonedas
+
+Es una app web donde se puede cotizar una criptomoneda con una moneda que usted seleccione. Se utiliza la siguiente API -> https://min-api.cryptocompare.com/documentation
